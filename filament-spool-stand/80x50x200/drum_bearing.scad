@@ -3,11 +3,11 @@
 // clearance
 tol = 0.25;
 // outer diameter of drum
-odd = 55;
+odd = 50;
 // drum thickness
 odh = 80;
 number_of_planets = 6;
-number_of_teeth_on_planets = 6;
+number_of_teeth_on_planets = 5;
 approximate_number_of_teeth_on_sun = 9;
 
 // innere insert parameters
