@@ -13,3 +13,5 @@ Highly customizable filament spool stand with planetary gear bearing
   - drum_bearing.scad - Spool holder based on planetary gear bearing
   - triangular_stand.scad - simple triangular stand
 
+- 80x50x200 - Spool Parameters: Width up to 80mm, Inner hole diameter over 50mm, outer diameter about 200mm
+  - drum_bearing.scad - Spool holder based on planetary gear bearing
