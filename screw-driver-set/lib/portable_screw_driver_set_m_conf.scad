@@ -13,11 +13,11 @@ outer_rib_depth = 2;
 outer_rib_dia = 10;
 outer_rib_offset = 10;
 
-hexal_hole_dia = 9;
+hexal_hole_dia = 7.3;
 hexal_hole_depth = 15;
 
-lock_offset = 2;
-lock_depth = 2;
+lock_offset = 2.5;
+lock_depth = 2.5;
 lock_hight = 2;
 lock_cnt = 3;
 lock_br = 10;
