@@ -1,6 +1,6 @@
 /* Portable screw driver container size M configuration file */
 
-include</portable_screw_driver_set_common_conf.scad>;
+include<portable_screw_driver_set_common_conf.scad>;
 
 inner_container_len = 60;
 inner_container_dia = 25;
