@@ -25,3 +25,10 @@ Portable screw driver set for hexogonal bids.
 
 - portable_screw_driver_set_container_x.scad - Screw driver set container
 - portable_screw_driver_set_lid_x.scad - Screw driver set container lid
+
+Different sizes of sets:
+- Size XL - TBD (large set)
+- Size L - TBD (big set)
+- Size M - TBD (up to 20 bits)
+- Size S  up to 7 small bits set
+- Size XS up to 4 small bits set
