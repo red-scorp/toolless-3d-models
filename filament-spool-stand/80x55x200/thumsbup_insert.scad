@@ -17,14 +17,6 @@ irl = 6;
 
 real_h = iih - tol;
 
-pp = [[-(iiw - tol) / 2, 0],
-	[(iiw - tol) / 2, 0],
-	[(iiw - tol - tol) / 2, 5],
-	[(iiw - tol) / 4, 1],
-	[0, 3],
-	[-(iiw - tol) / 4, 4]];
-pl = [[0, 1, 2, 3, 4]];
-
 translate([-(iiw - tol) / 2, 0, 0]) cube([iiw - tol, iil + irw, real_h]);
 translate([-irw / 2, -irl, 0]) cube([irw, irl * 2, real_h]);
 
