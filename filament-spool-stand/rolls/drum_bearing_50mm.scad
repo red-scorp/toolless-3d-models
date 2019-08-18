@@ -107,9 +107,9 @@ module gear(
 
 module flat_extrude(h, twist, flat){
 	if(flat == false)
-		linear_extrude(height = h, twist = twist, slices = twist / 6, convexity = 10) child(0);
+		linear_extrude(height = h, twist = twist, slices = twist / 6, convexity = 10) children(0);
 	else
-		child(0);
+		children(0);
 }
 
 module gear2D(
